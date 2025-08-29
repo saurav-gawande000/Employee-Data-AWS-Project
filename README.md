@@ -54,7 +54,7 @@ Employee-Data-AWS-Project/
 ---
 
 # Demo Screenshot
-![3TierArch](Home-Page.jpg)
+![3TierArch](Home-Page.png)
 
 
 # Tech Stack
