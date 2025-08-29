@@ -21,11 +21,15 @@ It demonstrates the use of **Serverless Architecture** using AWS services: API G
 Employee-Data-AWS-Project/
 
 
-│── index.html             Frontend UI
-│── scripts.js             JavaScript (AJAX calls to API Gateway)
-│── insertEmployeeData.py  Lambda function to insert data
-│── getEmployees.py        Lambda function to fetch data
-└── README.md              Project documentation
+│── index.html Frontend UI
+
+│── scripts.js JavaScript (AJAX calls to API Gateway)
+
+│── insertEmployeeData.py Lambda function to insert data
+
+│── getEmployees.py Lambda function to fetch data
+
+└── README.md Project documentation
 
 
 
@@ -70,15 +74,6 @@ Employee-Data-AWS-Project/
 4. Copy your API Gateway endpoint into `scripts.js` (replace the `API_ENDPOINT` value).  
 5. Open `index.html` in your browser → Test the application.  
 
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 
- Author
- 
-  Saurav Gawande
-  
-  Aspiring Cloud & DevOps Engineer | AWS & Linux   
-
-
-
-License
-This project is for educational/demo purposes as part of AWS learning.
