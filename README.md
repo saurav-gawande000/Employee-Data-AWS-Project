@@ -54,7 +54,7 @@ Employee-Data-AWS-Project/
 ---
 
 # Demo Screenshot
-(Add a screenshot of your webpage here after hosting on AWS or running locally)
+![3TierArch](Home-Page.jpg)
 
 
 # Tech Stack
